@@ -2,7 +2,7 @@
   "name": "bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "botbuilder": "^3.2.3",
     "restify": "^4.1.1"
